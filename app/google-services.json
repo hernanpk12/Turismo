@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869485157202",
+    "project_id": "turismo-698ac",
+    "storage_bucket": "turismo-698ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869485157202:android:27036f4fc978d61efc388b",
+        "android_client_info": {
+          "package_name": "com.example.turismo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869485157202-6512s88lf13f6s3gb4usfluhfu14gajd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8rGt1XDsBMlElUYCZtv18eWKNVogPBLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869485157202-6512s88lf13f6s3gb4usfluhfu14gajd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

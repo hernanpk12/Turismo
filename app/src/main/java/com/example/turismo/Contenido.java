@@ -4,16 +4,15 @@ import java.io.Serializable;
 
 public class Contenido implements Serializable {
 
-    String titulo,nombreArticulo,lugarArticulo,precioArituculo,descripcionArticulo;
-    int fotoArticulo;
+    String titulo, nombreArticulo, lugarArticulo, precioArituculo, descripcionArticulo,foto;
 
-    public Contenido(String titulo, String nombreArticulo, String lugarArticulo, String precioArituculo, String descripcionArticulo, int fotoArticulo) {
+    public Contenido(String titulo, String nombreArticulo, String lugarArticulo, String precioArituculo, String descripcionArticulo, String foto) {
         this.titulo = titulo;
         this.nombreArticulo = nombreArticulo;
         this.lugarArticulo = lugarArticulo;
         this.precioArituculo = precioArituculo;
         this.descripcionArticulo = descripcionArticulo;
-        this.fotoArticulo = fotoArticulo;
+        this.foto = foto;
     }
 
     public String getTitulo() {
@@ -56,11 +55,11 @@ public class Contenido implements Serializable {
         this.descripcionArticulo = descripcionArticulo;
     }
 
-    public int getFotoArticulo() {
-        return fotoArticulo;
+    public String getFoto() {
+        return foto;
     }
 
-    public void setFotoArticulo(int fotoArticulo) {
-        this.fotoArticulo = fotoArticulo;
+    public void setFoto(String foto) {
+        this.foto = foto;
     }
 }

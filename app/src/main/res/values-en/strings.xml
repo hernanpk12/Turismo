@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Turismo</string>
+    <string name="descripcion1">Lorem Ipsum es simplemente texto de relleno de la industria de la impresión y la composición tipográfica.</string>
+    <string name="descripcion2">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando
+        mire su diseño. El punto de usar Lorem Ipsum es que tiene una distribución de letras más o menos normal,</string>
+    <string name="opcion1">About</string>
+    <string name="opcion2">inglish</string>
+    <string name="opcion3">spanish</string>
+    <string name="opcion4">see more</string>
+    <string name="Perfil">
+hernan uran usuga I am from the enciso neighborhood, I have a technology and I am a student of the cesde, I have stood out in values such as respect, responsibility, punctuality,
+effort and kindness; I like to associate, help and learn from others
+people, I also have the fortune to share my time and my space with
+a good family and diversity of groups that correct and complement me with
+great humility.
+</string>
+    <string name="nombrePerfil">hernan uran usuga</string>
+
+</resources>

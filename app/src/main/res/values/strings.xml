@@ -1,6 +1,21 @@
 <resources>
     <string name="app_name">Turismo</string>
 
+    <string name="opcion1">Acerca de</string>
+    <string name="opcion2">ingles</string>
+    <string name="opcion3">Español</string>
+    <string name="opcion4">Ver mas..</string>
+
     <string name="descripcion1">Lorem Ipsum es simplemente texto de relleno de la industria de la impresión y la composición tipográfica.</string>
-    <string name="descripcion2">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando mire su diseño. El punto de usar Lorem Ipsum es que tiene una distribución de letras más o menos normal,</string>
+    <string name="descripcion2">Es un hecho establecido desde hace mucho tiempo que un lector se distraerá con el contenido legible de una página cuando
+        mire su diseño. El punto de usar Lorem Ipsum es que tiene una distribución de letras más o menos normal,</string>
+
+    <string name="Perfil">hernan uran usuga soy del barrio enciso, tengo una tecnologia y soy estudiante del cesde,Me he destacado en valores como respeto, responsabilidad, puntualidad,
+esfuerzo y amabilidad; me gusta asociarme, ayudar y aprender de otras
+personas, además tengo la fortuna de compartir mi tiempo y mi espacio con
+una buena familia y diversidad de grupos que me corrigen y complementan con
+gran humildad.
+</string>
+    <string name="nombrePerfil">hernan uran usuga</string>
+
 </resources>
